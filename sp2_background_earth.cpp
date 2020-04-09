@@ -1,4 +1,4 @@
-    CWSTR c_Cloud2TxtrName                             = L"/data/textures/earth/cloud/cloud_1024_2.dds"; //Cloud shadows
+    CWSTR c_Cloud2TxtrName                             = L"/data/textures/earth/cloud/cloud_1024_2.dds"; //OBM Cloud shadows
 
     // Create cloud shadow
     // OBM
