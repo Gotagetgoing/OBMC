@@ -41,8 +41,8 @@
       l_pCloud2PS->TextureSampler(0)->Texture(m_pCloud2Texture);
       l_pCloud2PS->TextureSampler(0)->MagnificationFilter(GFX::FILTER_LINEAR);
 
-	    // Initialize cloud shadow mesh
-	    //OBM
+      // Initialize cloud shadow mesh
+      //OBM
       g_Joshua.Renderer()->Helper()->CreateSphere(m_pCloud2Mesh, 1.f + 1.f / 256.f, 32, 32, HELPER_MESH_CREATE_ALL);
       
       void GBackgroundEarth::CloudsEnable()
